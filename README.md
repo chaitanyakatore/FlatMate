@@ -1,3 +1,4 @@
-# SharedSpaces
-Creating SharedSpaces, a full-stack student housing web-app
+# FlatMate
+Creating Flatmate, a full-stack student housing web-app
+[https://flatmate.pro](doc:linking-to-pages#anchor-links)
 # FlatMate
